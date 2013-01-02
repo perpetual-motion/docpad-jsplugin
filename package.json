@@ -1,0 +1,31 @@
+{
+  "name": "docpad-jsplugin",
+  "version": "1.0.0",
+  "description": "Base Plugin in javascript for DocPad",
+  "homepage": "http://perpetual-motion.com/docpad/docpad-jsplugin",
+  "keywords": [
+    "docpad",
+    "docpad-plugin",
+  ],
+  "author": "Garrett Serack <garrett@serack.org> (http://fearthecowboy.com)",
+  "maintainers": [
+    "Garrett Serack <garrett@serack.org> (http://fearthecowboy.com)"
+  ],
+  "contributors": [
+    "Garrett Serack <garrett@serack.org> (http://fearthecowboy.com)"
+  ],
+  "bugs": {
+    "url": "https://github.com/perpetual-motion/docpad-jsplugin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perpetual-motion/docpad-jsplugin.git"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "docpad": "6.x"
+  },
+  "main": "./lib/docpad.jsplugin.js",
+  "dependencies": {
+  }
+}
