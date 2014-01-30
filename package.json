@@ -1,6 +1,6 @@
 {
   "name": "docpad-jsplugin",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Base Plugin in javascript for DocPad",
   "homepage": "http://perpetual-motion.com/docpad/docpad-jsplugin",
   "keywords": [
@@ -22,8 +22,7 @@
     "url": "https://github.com/perpetual-motion/docpad-jsplugin.git"
   },
   "engines": {
-    "node": ">=0.8.0",
-    "docpad": "6.x"
+    "node": ">=0.10.0"
   },
   "main": "./lib/docpad.jsplugin.js",
   "dependencies": {
